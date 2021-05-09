@@ -1,0 +1,10 @@
+.portada{
+    background-image: url(tp01.jpg);
+    width:0 auto ;
+    height: 600px;
+    background-position: center;
+}
+body{
+    background-color: teal;
+    color: whitesmoke;
+}
